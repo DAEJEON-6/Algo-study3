@@ -28,7 +28,7 @@
             <td align="center">장애물 경주 난이도</td>
             <td align="center"><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWefy5x65PoDFAUh">Link</a></td>
             <td align="center"><a href=""> </a></td>
-            <td align="center"><a href=""> </a></td>
+            <td align="center"><a href="doho/swea_6730.java"> &#x2705 </a></td>
             <td align="center"><a href=""> </a></td>
         </tr>
         <tr>
@@ -36,7 +36,7 @@
             <td align="center">동철이의 프로그래밍 대회</td>
             <td align="center"><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWjlFcGK3dMDFAVT">Link</a></td>
             <td align="center"><a href=""> </a></td>
-            <td align="center"><a href=""> </a></td>
+            <td align="center"><a href="doho/swea_6958.java"> &#x2705 </a></td>
             <td align="center"><a href=""> </a></td>
         </tr>
         <tr>
@@ -44,7 +44,7 @@
             <td align="center">백만 장자 프로젝트</td>
             <td align="center"><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LrsUaDxcDFAXc">Link</a></td>
             <td align="center"><a href=""> </a></td>
-            <td align="center"><a href=""> </a></td>
+            <td align="center"><a href="doho/swea_1859.java"> &#x2705 </a></td>
             <td align="center"><a href=""> </a></td>
         </tr>
         <tr>
@@ -53,7 +53,7 @@
             <td align="center">영식이와 친구들</td>
             <td align="center"><a href="https://www.acmicpc.net/problem/2991">Link</a></td>
             <td align="center"><a href=""> </a></td>
-            <td align="center"><a href=""> </a></td>
+            <td align="center"><a href="doho/boj_2991.java"> &#x2705 </a></td>
             <td align="center"><a href=""> </a></td>
         </tr>
         <tr>
@@ -118,7 +118,7 @@
             <td align="center">달팽이 사각형</td>
             <td align="center"><a href="http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=980&sca=2020">Link</a></td>
             <td align="center"><a href=""> </a></td>
-            <td align="center"><a href=""> </a></td>
+            <td align="center"><a href="doho/jo_1707.java"> &#x2705 </a></td>
             <td align="center"><a href=""> </a></td>
         </tr>
     </tbody>
