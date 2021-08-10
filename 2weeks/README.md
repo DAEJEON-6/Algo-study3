@@ -50,7 +50,7 @@
         <tr>
             <td rowspan="8" align="center"><b>BOJ</b></td>
             <td align="center">2991</td>
-            <td align="center">영식이와 친구들</td>
+            <td align="center">사나운개</td>
             <td align="center"><a href="https://www.acmicpc.net/problem/2991">Link</a></td>
             <td align="center"><a href=""> </a></td>
             <td align="center"><a href=""> </a></td>
@@ -58,7 +58,7 @@
         </tr>
         <tr>
             <td align="center">3985</td>
-            <td align="center">블랙잭</td>
+            <td align="center">롤케이크</td>
             <td align="center"><a href="https://www.acmicpc.net/problem/3985">Link</a></td>
             <td align="center"><a href=""> </a></td>
             <td align="center"><a href=""> </a></td>
@@ -66,7 +66,7 @@
         </tr>
         <tr>
             <td align="center">2941</td>
-            <td align="center">ATM</td>
+            <td align="center">크로아티아 알파벳</td>
             <td align="center"><a href="https://www.acmicpc.net/problem/2941">Link</a></td>
             <td align="center"><a href=""> </a></td>
             <td align="center"><a href=""> </a></td>
@@ -74,7 +74,7 @@
         </tr>
         <tr>
             <td align="center">2999</td>
-            <td align="center">단어 뒤집기 2</td>
+            <td align="center">비밀이메일</td>
             <td align="center"><a href="https://www.acmicpc.net/problem/2999">Link</a></td>
             <td align="center"><a href=""> </a></td>
             <td align="center"><a href=""> </a></td>
@@ -82,7 +82,7 @@
         </tr>
         <tr>
             <td align="center">2564</td>
-            <td align="center">직사각형을 만드는 방법</td>
+            <td align="center">경비원</td>
             <td align="center"><a href="https://www.acmicpc.net/problem/2564">Link</a></td>
             <td align="center"><a href=""> </a></td>
             <td align="center"><a href=""> </a></td>
@@ -90,7 +90,7 @@
         </tr>
         <tr>
             <td align="center">2164</td>
-            <td align="center">직사각형을 만드는 방법</td>
+            <td align="center">카드2</td>
             <td align="center"><a href="https://www.acmicpc.net/problem/2164">Link</a></td>
             <td align="center"><a href=""> </a></td>
             <td align="center"><a href=""> </a></td>
@@ -98,7 +98,7 @@
         </tr>
         <tr>
             <td align="center">2309</td>
-            <td align="center">직사각형을 만드는 방법</td>
+            <td align="center">일곱 난쟁이</td>
             <td align="center"><a href="https://www.acmicpc.net/problem/2309">Link</a></td>
             <td align="center"><a href=""> </a></td>
             <td align="center"><a href=""> </a></td>
@@ -106,7 +106,7 @@
         </tr>
         <tr>
             <td align="center">2605</td>
-            <td align="center">직사각형을 만드는 방법</td>
+            <td align="center">줄 세우기</td>
             <td align="center"><a href="https://www.acmicpc.net/problem/2605">Link</a></td>
             <td align="center"><a href=""> </a></td>
             <td align="center"><a href=""> </a></td>
