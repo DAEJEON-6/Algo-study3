@@ -27,7 +27,7 @@
             <td align="center">6730</td>
             <td align="center">장애물 경주 난이도</td>
             <td align="center"><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWefy5x65PoDFAUh">Link</a></td>
-            <td align="center"><a href=""> </a></td>
+            <td align="center"><a href="">  </a></td>
             <td align="center"><a href="doho/swea_6730.java"> &#x2705 </a></td>
             <td align="center"><a href=""> </a></td>
         </tr>
@@ -61,7 +61,7 @@
             <td align="center">롤케이크</td>
             <td align="center"><a href="https://www.acmicpc.net/problem/3985">Link</a></td>
             <td align="center"><a href=""> </a></td>
-            <td align="center"><a href=""> </a></td>
+            <td align="center"><a href="doho/boj_3985.java"> &#x2705 </a></td>
             <td align="center"><a href=""> </a></td>
         </tr>
         <tr>
@@ -69,7 +69,7 @@
             <td align="center">크로아티아 알파벳</td>
             <td align="center"><a href="https://www.acmicpc.net/problem/2941">Link</a></td>
             <td align="center"><a href=""> </a></td>
-            <td align="center"><a href=""> </a></td>
+            <td align="center"><a href="doho/boj_2941.java"> &#x2705 </a></td>
             <td align="center"><a href=""> </a></td>
         </tr>
         <tr>
@@ -77,7 +77,7 @@
             <td align="center">비밀이메일</td>
             <td align="center"><a href="https://www.acmicpc.net/problem/2999">Link</a></td>
             <td align="center"><a href=""> </a></td>
-            <td align="center"><a href=""> </a></td>
+            <td align="center"><a href="doho/boj_2999.java"> &#x2705 </a></td>
             <td align="center"><a href=""> </a></td>
         </tr>
         <tr>
@@ -101,7 +101,7 @@
             <td align="center">일곱 난쟁이</td>
             <td align="center"><a href="https://www.acmicpc.net/problem/2309">Link</a></td>
             <td align="center"><a href=""> </a></td>
-            <td align="center"><a href=""> </a></td>
+            <td align="center"><a href="doho/boj_2309.java"> &#x2705 </a></td>
             <td align="center"><a href=""> </a></td>
         </tr>
         <tr>
@@ -109,7 +109,7 @@
             <td align="center">줄 세우기</td>
             <td align="center"><a href="https://www.acmicpc.net/problem/2605">Link</a></td>
             <td align="center"><a href=""> </a></td>
-            <td align="center"><a href=""> </a></td>
+            <td align="center"><a href="doho/boj_2605.java"> &#x2705 </a></td>
             <td align="center"><a href=""> </a></td>
         </tr>
         <tr>
