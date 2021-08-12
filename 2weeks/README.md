@@ -85,7 +85,7 @@
             <td align="center">경비원</td>
             <td align="center"><a href="https://www.acmicpc.net/problem/2564">Link</a></td>
             <td align="center"><a href=""> </a></td>
-            <td align="center"><a href=""> </a></td>
+            <td align="center"><a href="doho/boj_2564.java"> &#x2705 </a></td>
             <td align="center"><a href=""> </a></td>
         </tr>
         <tr>
@@ -93,7 +93,7 @@
             <td align="center">카드2</td>
             <td align="center"><a href="https://www.acmicpc.net/problem/2164">Link</a></td>
             <td align="center"><a href=""> </a></td>
-            <td align="center"><a href=""> </a></td>
+            <td align="center"><a href="doho/boj_2164.java"> &#x2705 </a></td>
             <td align="center"><a href=""> </a></td>
         </tr>
         <tr>
