@@ -27,7 +27,7 @@
     <tbody>
         <tr>
             <td align="center"> 3week </td>
-            <td align="center"><a href="3weeks">링크</a></td>
+            <td align="center"><a href="3weeks/README.md">링크</a></td>
             <td align="center"> IM </td>
         </tr>
         <tr>
