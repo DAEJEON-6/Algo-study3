@@ -28,15 +28,15 @@
             <td align="center">빙고</td>
             <td align="center"><a href="https://www.acmicpc.net/problem/2578">Link</a></td>
             <td align="center"><a href=""> </a></td>
-            <td align="center"><a href=""> </a></td>
+            <td align="center"><a href="/doho/boj_2578.java">&#x2705 </a></td>
             <td align="center"><a href=""> </a></td>
         </tr>
         <tr>
-            <td align="center">2563</td>
-            <td align="center">색종이</td>
-            <td align="center"><a href="https://www.acmicpc.net/problem/2563">Link</a></td>
+            <td align="center">6603</td>
+            <td align="center">로또</td>
+            <td align="center"><a href="https://www.acmicpc.net/problem/6603">Link</a></td>
             <td align="center"><a href=""> </a></td>
-            <td align="center"><a href=""> </a></td>
+            <td align="center"><a href="/doho/boj_6603.java"> &#x2705</a></td>
             <td align="center"><a href=""> </a></td>
         </tr>
         <tr>
