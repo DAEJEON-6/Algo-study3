@@ -33,7 +33,7 @@
         </tr>
         <tr>
             <td align="center">6603</td>
-            <td align="center">로또</td>
+            <td align="center">&#x2705</td>
             <td align="center"><a href="https://www.acmicpc.net/problem/6603">Link</a></td>
             <td align="center"><a href=""> </a></td>
             <td align="center"><a href="/doho/boj_6603.java"> &#x2705</a></td>
