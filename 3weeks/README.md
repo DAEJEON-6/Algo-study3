@@ -28,7 +28,7 @@
             <td align="center">빙고</td>
             <td align="center"><a href="https://www.acmicpc.net/problem/2578">Link</a></td>
             <td align="center"><a href=""> </a></td>
-            <td align="center"><a href="/doho/boj_2578.java">&#x2705 </a></td>
+            <td align="center"><a href="doho/boj_2578.java">&#x2705 </a></td>
             <td align="center"><a href=""> </a></td>
         </tr>
         <tr>
@@ -36,7 +36,7 @@
             <td align="center">로또</td>
             <td align="center"><a href="https://www.acmicpc.net/problem/6603">Link</a></td>
             <td align="center"><a href=""> </a></td>
-            <td align="center"><a href="/doho/boj_6603.java"> &#x2705</a></td>
+            <td align="center"><a href="doho/boj_6603.java"> &#x2705</a></td>
             <td align="center"><a href=""> </a></td>
         </tr>
         <tr>
@@ -44,7 +44,7 @@
             <td align="center">수열</td>
             <td align="center"><a href="https://www.acmicpc.net/problem/2491">Link</a></td>
             <td align="center"><a href=""> </a></td>
-            <td align="center"><a href=""> </a></td>
+            <td align="center"><a href="doho/boj_2491.java">&#x2705 </a></td>
             <td align="center"><a href=""> </a></td>
         </tr>
         <tr>
@@ -52,7 +52,7 @@
             <td align="center">참외밭</td>
             <td align="center"><a href="https://www.acmicpc.net/problem/2477">Link</a></td>
             <td align="center"><a href=""> </a></td>
-            <td align="center"><a href=""> </a></td>
+            <td align="center"><a href="doho/boj_2477.java">&#x2705 </a></td>
             <td align="center"><a href=""> </a></td>
         </tr>
         <tr>
@@ -60,7 +60,7 @@
             <td align="center">직사각형</td>
             <td align="center"><a href="https://www.acmicpc.net/problem/2527">Link</a></td>
             <td align="center"><a href=""> </a></td>
-            <td align="center"><a href=""> </a></td>
+            <td align="center"><a href="">&#x2740 </a></td>
             <td align="center"><a href=""> </a></td>
         </tr>
         <tr>
@@ -68,7 +68,7 @@
             <td align="center">자리배정</td>
             <td align="center"><a href="https://www.acmicpc.net/problem/10157">Link</a></td>
             <td align="center"><a href=""> </a></td>
-            <td align="center"><a href=""> </a></td>
+            <td align="center"><a href="doho/boj_10157.java">&#x2705 </a></td>
             <td align="center"><a href=""> </a></td>
         </tr>
         <tr>
@@ -76,7 +76,7 @@
             <td align="center">개미</td>
             <td align="center"><a href="https://www.acmicpc.net/problem/10158">Link</a></td>
             <td align="center"><a href=""> </a></td>
-            <td align="center"><a href=""> </a></td>
+            <td align="center"><a href=""> &#x2740</a></td>
             <td align="center"><a href=""> </a></td>
         </tr>
         <tr>
@@ -84,7 +84,7 @@
             <td align="center">직사각형 네개의 <br>합집합의 면적 구하기</td>
             <td align="center"><a href="https://www.acmicpc.net/problem/2669">Link</a></td>
             <td align="center"><a href=""> </a></td>
-            <td align="center"><a href=""> </a></td>
+            <td align="center"><a href="doho/boj_2669.java">&#x2705 </a></td>
             <td align="center"><a href=""> </a></td>
         </tr>
         <tr>
@@ -92,7 +92,7 @@
             <td align="center">수 이어가기</td>
             <td align="center"><a href="https://www.acmicpc.net/problem/2635">Link</a></td>
             <td align="center"><a href=""> </a></td>
-            <td align="center"><a href=""> </a></td>
+            <td align="center"><a href="doho/boj_2635.java">&#x2705 </a></td>
             <td align="center"><a href=""> </a></td>
         </tr>
         <tr>
@@ -100,7 +100,7 @@
             <td align="center">종이 자르기</td>
             <td align="center"><a href="https://www.acmicpc.net/problem/2628">Link</a></td>
             <td align="center"><a href=""> </a></td>
-            <td align="center"><a href=""> </a></td>
+            <td align="center"><a href=""> &#x2740</a></td>
             <td align="center"><a href=""> </a></td>
         </tr>
         <tr>
@@ -108,7 +108,7 @@
             <td align="center">주사위 쌓기</td>
             <td align="center"><a href="https://www.acmicpc.net/problem/2116">Link</a></td>
             <td align="center"><a href=""> </a></td>
-            <td align="center"><a href=""> </a></td>
+            <td align="center"><a href="doho/boj_2116.java">&#x2705 </a></td>
             <td align="center"><a href=""> </a></td>
         </tr>
         <tr>
@@ -116,7 +116,7 @@
             <td align="center">창고 다각형</td>
             <td align="center"><a href="https://www.acmicpc.net/problem/2304">Link</a></td>
             <td align="center"><a href=""> </a></td>
-            <td align="center"><a href=""> </a></td>
+            <td align="center"><a href="doho/boj_2304.java">&#x2705 </a></td>
             <td align="center"><a href=""> </a></td>
         </tr>
     </tbody>
