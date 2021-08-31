@@ -19,11 +19,11 @@ public class Main{
 		String str = br.readLine();
     		
 		List<Character> lst = new ArrayList<Character>();          //결과를 출력할 리스트
-		List<Character> lst_temp = new ArrayList<Character>();     //우선순위가 높은 연산들
-		
+		List<Character> lst_temp = new ArrayList<Character>();     //우선순위가 높은 연산들(스택용)
+		//현재 괄호의 갯수
 		int count = 0;
     
-    	//첫번째부터 문자열 하나씩 접근
+    		//첫번째부터 문자열 하나씩 접근
 		for(int i=0; i<str.length(); i++) {
 			//숫자면 결과리스트에 추가
 			if(str.charAt(i)>=65) {
@@ -31,7 +31,7 @@ public class Main{
 			}else { //연산자일 경우
 				//우선순위가 낮은경우, )를 만났을때
 				if((str.charAt(i)=='+' || str.charAt(i)=='-' || str.charAt(i)==')')) {
-					//(를 만날때까지 lst_temp에서 결과리스트로 뱉어낸다.
+					//숫자가 아니고 * - )일때 (를 만날때까지 lst_temp에서 결과리스트로 뱉어낸다.
 					while(!lst_temp.isEmpty() && (lst_temp.get(lst_temp.size()-1)!='(')) {
 						lst.add(lst_temp.get(lst_temp.size()-1));
 						lst_temp.remove(lst_temp.size()-1);
@@ -42,7 +42,7 @@ public class Main{
 						if(lst_temp.get(lst_temp.size()-1)=='(') {
 							lst_temp.remove(lst_temp.size()-1);
 							count--;
-							//카운트가 0이 되었다는것은 우선순위 연산을 다 한것이므로 앞에 입력받았던 우선순위가 낮은 문자들을 전부 넣어준다.
+							//카운트가 0이 되었다는것은 괄호 연산을 다 한것이므로 앞에 입력받았던 우선순위가 낮은 문자들을 전부 넣어준다.
 							if(count==0) {
 								while(!lst_temp.isEmpty()&& (lst_temp.get(lst_temp.size()-1)=='+' && lst_temp.get(lst_temp.size()-1) == '-')) {
 									lst.add(lst_temp.get(lst_temp.size()-1));
