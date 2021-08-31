@@ -8,6 +8,12 @@ import java.util.StringTokenizer;
  * Date : 2021-09-01
  * Description : 백준 1967
  */
+/*
+tip. 전 DFS로 풀었습니다. ~~ 
+아마 크루스칼로도 푸실수 있을거에용 
+
+
+*/
 
 public class Main{
   //DFS 정보를 저장할 노드
