@@ -29,7 +29,7 @@
             <td align="center"><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWefy5x65PoDFAUh">Link</a></td>
             <td align="center"><a href="">  </a></td>
             <td align="center"><a href="doho/swea_6730.java"> &#x2705 </a></td>
-            <td align="center"><a href=""> </a></td>
+            <td align="center"><a href="sohyeon/SWEA_6730.java"> &#x2705</a></td>
         </tr>
         <tr>
             <td align="center">6958</td>
@@ -37,7 +37,7 @@
             <td align="center"><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWjlFcGK3dMDFAVT">Link</a></td>
             <td align="center"><a href=""> </a></td>
             <td align="center"><a href="doho/swea_6958.java"> &#x2705 </a></td>
-            <td align="center"><a href=""> </a></td>
+            <td align="center"><a href="sohyeon/SWEA_6958.java"> &#x2705</a></td>
         </tr>
         <tr>
             <td align="center">1859</td>
@@ -45,7 +45,7 @@
             <td align="center"><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LrsUaDxcDFAXc">Link</a></td>
             <td align="center"><a href=""> </a></td>
             <td align="center"><a href="doho/swea_1859.java"> &#x2705 </a></td>
-            <td align="center"><a href=""> </a></td>
+            <td align="center"><a href="sohyeon/SWEA_1859.java"> &#x2705 </a></td>
         </tr>
         <tr>
             <td rowspan="8" align="center"><b>BOJ</b></td>
@@ -54,7 +54,7 @@
             <td align="center"><a href="https://www.acmicpc.net/problem/2991">Link</a></td>
             <td align="center"><a href=""> </a></td>
             <td align="center"><a href="doho/boj_2991.java"> &#x2705 </a></td>
-            <td align="center"><a href=""> </a></td>
+            <td align="center"><a href="sohyeon/BOJ_2991.java"> &#x2705 </a></td>
         </tr>
         <tr>
             <td align="center">3985</td>
@@ -62,7 +62,7 @@
             <td align="center"><a href="https://www.acmicpc.net/problem/3985">Link</a></td>
             <td align="center"><a href=""> </a></td>
             <td align="center"><a href="doho/boj_3985.java"> &#x2705 </a></td>
-            <td align="center"><a href=""> </a></td>
+            <td align="center"><a href="sohyeon/BOJ_3985.java"> &#x2705 </a></td>
         </tr>
         <tr>
             <td align="center">2941</td>
@@ -70,7 +70,7 @@
             <td align="center"><a href="https://www.acmicpc.net/problem/2941">Link</a></td>
             <td align="center"><a href=""> </a></td>
             <td align="center"><a href="doho/boj_2941.java"> &#x2705 </a></td>
-            <td align="center"><a href=""> </a></td>
+            <td align="center"><a href="sohyeon/BOJ_2941.java">&#x2705 </a></td>
         </tr>
         <tr>
             <td align="center">2999</td>
@@ -78,7 +78,7 @@
             <td align="center"><a href="https://www.acmicpc.net/problem/2999">Link</a></td>
             <td align="center"><a href=""> </a></td>
             <td align="center"><a href="doho/boj_2999.java"> &#x2705 </a></td>
-            <td align="center"><a href=""> </a></td>
+            <td align="center"><a href="sohyeon/BOJ_2999.java">&#x2705  </a></td>
         </tr>
         <tr>
             <td align="center">2564</td>
@@ -86,7 +86,7 @@
             <td align="center"><a href="https://www.acmicpc.net/problem/2564">Link</a></td>
             <td align="center"><a href=""> </a></td>
             <td align="center"><a href="doho/boj_2564.java"> &#x2705 </a></td>
-            <td align="center"><a href=""> </a></td>
+            <td align="center"><a href="sohyeon/BOJ_2564.java">&#x2705  </a></td>
         </tr>
         <tr>
             <td align="center">2164</td>
@@ -94,7 +94,7 @@
             <td align="center"><a href="https://www.acmicpc.net/problem/2164">Link</a></td>
             <td align="center"><a href=""> </a></td>
             <td align="center"><a href="doho/boj_2164.java"> &#x2705 </a></td>
-            <td align="center"><a href=""> </a></td>
+            <td align="center"><a href="sohyeon/BOJ_2164.java"> &#x2705 </a></td>
         </tr>
         <tr>
             <td align="center">2309</td>
@@ -102,7 +102,7 @@
             <td align="center"><a href="https://www.acmicpc.net/problem/2309">Link</a></td>
             <td align="center"><a href=""> </a></td>
             <td align="center"><a href="doho/boj_2309.java"> &#x2705 </a></td>
-            <td align="center"><a href=""> </a></td>
+            <td align="center"><a href="sohyeon/BOJ_2309.java"> &#x2705 </a></td>
         </tr>
         <tr>
             <td align="center">2605</td>
@@ -110,7 +110,7 @@
             <td align="center"><a href="https://www.acmicpc.net/problem/2605">Link</a></td>
             <td align="center"><a href=""> </a></td>
             <td align="center"><a href="doho/boj_2605.java"> &#x2705 </a></td>
-            <td align="center"><a href=""> </a></td>
+            <td align="center"><a href="sohyeon/BOJ_2605.java"> &#x2705 </a></td>
         </tr>
         <tr>
             <td align="center"><b>JO</b></td>
@@ -119,7 +119,7 @@
             <td align="center"><a href="http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=980&sca=2020">Link</a></td>
             <td align="center"><a href=""> </a></td>
             <td align="center"><a href="doho/jo_1707.java"> &#x2705 </a></td>
-            <td align="center"><a href=""> </a></td>
+            <td align="center"><a href="sohyeon/JUNGOL_1707.java">&#x2705  </a></td>
         </tr>
     </tbody>
 </table>
