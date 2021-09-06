@@ -31,7 +31,7 @@
             <td align="center"><a href=""> </a></td>
             <td align="center"><a href="doho/boj_1918.java">&#x2705 </a></td>
             <td align="center"><a href=""> </a></td>
-            <td align="center"><a href=""> </a></td>
+            <td align="center"><a href="YS/boj_1918.java"> </a></td>
         </tr>
         <tr>
             <td align="center">1967</td>
@@ -40,7 +40,7 @@
             <td align="center"><a href=""> </a></td>
             <td align="center"><a href="doho/boj_1967.java"> &#x2705</a></td>
             <td align="center"><a href=""> </a></td>
-            <td align="center"><a href=""> </a></td>
+            <td align="center"><a href="YS/boj_1967.java"> </a></td>
         </tr>
         <tr>
             <td rowspan="4" align="center"><b>PRO</b></td>
@@ -50,7 +50,7 @@
             <td align="center"><a href=""> </a></td>
             <td align="center"><a href="doho/pro_42860.java">&#x2705 </a></td>
             <td align="center"><a href=""> </a></td>
-            <td align="center"><a href=""> </a></td>
+            <td align="center"><a href="YS/pro_조이스틱.java"> </a></td>
         </tr>
         <tr>
             <td align="center">43162</td>
@@ -59,7 +59,7 @@
             <td align="center"><a href=""> </a></td>
             <td align="center"><a href="doho/pro_43162.java">&#x2705 </a></td>
             <td align="center"><a href=""> </a></td>
-            <td align="center"><a href=""> </a></td>
+            <td align="center"><a href="YS/pro_네트워크.java"> </a></td>
         </tr>
         <tr>
             <td align="center">43165</td>
@@ -68,7 +68,7 @@
             <td align="center"><a href=""> </a></td>
             <td align="center"><a href="doho/pro_43165.java">&#x2705 </a></td>
             <td align="center"><a href=""> </a></td>
-            <td align="center"><a href=""> </a></td>
+            <td align="center"><a href="YS/pro_타겟넘버.java"> </a></td>
         </tr>
         <tr>
             <td align="center">84512</td>
@@ -77,7 +77,7 @@
             <td align="center"><a href=""> </a></td>
             <td align="center"><a href="doho/pro_84512.java">&#x2705 </a></td>
             <td align="center"><a href=""> </a></td>
-            <td align="center"><a href=""> </a></td>
+            <td align="center"><a href="YS/pro_5week.java"> </a></td>
         </tr>
     </tbody>
 </table>
