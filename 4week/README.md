@@ -30,7 +30,7 @@
             <td align="center"><a href="https://www.acmicpc.net/problem/1918">Link</a></td>
             <td align="center"><a href=""> </a></td>
             <td align="center"><a href="doho/boj_1918.java">&#x2705 </a></td>
-            <td align="center"><a href=""> </a></td>
+            <td align="center"><a href="sohyeon/BOJ_1918.java"> &#x2705</a></td>
             <td align="center"><a href="YS/boj_1918.java">&#x2705 </a></td>
         </tr>
         <tr>
@@ -39,7 +39,7 @@
             <td align="center"><a href="https://www.acmicpc.net/problem/1967">Link</a></td>
             <td align="center"><a href=""> </a></td>
             <td align="center"><a href="doho/boj_1967.java"> &#x2705</a></td>
-            <td align="center"><a href=""> </a></td>
+            <td align="center"><a href="sohyeon/BOJ_1967.java"> &#x2705</a></td>
             <td align="center"><a href="YS/boj_1967.java">&#x2705 </a></td>
         </tr>
         <tr>
@@ -49,7 +49,7 @@
             <td align="center"><a href="https://programmers.co.kr/learn/courses/30/lessons/42860">Link</a></td>
             <td align="center"><a href=""> </a></td>
             <td align="center"><a href="doho/pro_42860.java">&#x2705 </a></td>
-            <td align="center"><a href=""> </a></td>
+            <td align="center"><a href="sohyeon/Programmers_42860.java"> &#x2705</a></td>
             <td align="center"><a href="YS/pro_조이스틱.java">&#x2705 </a></td>
         </tr>
         <tr>
@@ -58,7 +58,7 @@
             <td align="center"><a href="https://programmers.co.kr/learn/courses/30/lessons/43162">Link</a></td>
             <td align="center"><a href=""> </a></td>
             <td align="center"><a href="doho/pro_43162.java">&#x2705 </a></td>
-            <td align="center"><a href=""> </a></td>
+            <td align="center"><a href="sohyeon/Programmers_43162.java"> &#x2705</a></td>
             <td align="center"><a href="YS/pro_네트워크.java">&#x2705 </a></td>
         </tr>
         <tr>
@@ -67,7 +67,7 @@
             <td align="center"><a href="https://programmers.co.kr/learn/courses/30/lessons/43165">Link</a></td>
             <td align="center"><a href=""> </a></td>
             <td align="center"><a href="doho/pro_43165.java">&#x2705 </a></td>
-            <td align="center"><a href=""> </a></td>
+            <td align="center"><a href="sohyeon/Programmers_43165.java">&#x2705 </a></td>
             <td align="center"><a href="YS/pro_타겟넘버.java">&#x2705 </a></td>
         </tr>
         <tr>
@@ -76,7 +76,7 @@
             <td align="center"><a href="https://programmers.co.kr/learn/courses/30/lessons/84512">Link</a></td>
             <td align="center"><a href=""> </a></td>
             <td align="center"><a href="doho/pro_84512.java">&#x2705 </a></td>
-            <td align="center"><a href=""> </a></td>
+            <td align="center"><a href="sohyeon/Programmers_84512.java">&#x2705 </a></td>
             <td align="center"><a href="YS/pro_5week.java">&#x2705 </a></td>
         </tr>
     </tbody>
