@@ -6,7 +6,7 @@ import java.util.Queue;
 class Solution {
   //BFS 위한 노드, 현재까지의 name, 위치, 이동거리를 저장한다.
     public static class Node{
-		char[] cname ;
+		char[] cname ; 
 		int curr;
 		int move = 0 ;
 		Node(char[] cname, int curr, int move){
@@ -23,20 +23,20 @@ class Solution {
         
         char[] names = name.toCharArray();
         int len = names.length;
-        char[] init = new char[len];
+        char[] init = new char[len]; //길이만큼 임시 리스트 
         
-        Arrays.fill(init,'A');
+        Arrays.fill(init,'A'); // 임시리스트를 A로 채웠어요 //초기값으로 STR -> {A,A,A}
         
-        Queue<Node> queue = new LinkedList<Node>();
-        
+        Queue<Node> queue = new LinkedList<Node>();//bfs위한 큐 생성
+        //초기값 add해줌
         queue.add(new Node(init, 0, 0));
         
         
         //BFS를 이용하면 간단히 풀 수 있다.
         while(!queue.isEmpty()) {
-        	Node curr = queue.poll();
+        	Node curr = queue.poll(); //현재값 poll
         	
-        	init = curr.cname;
+        	init = curr.cname;  //현재까지 바꾼 문자 리스트
         	int pos = curr.curr;
         	int move = curr.move;
         	
