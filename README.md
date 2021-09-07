@@ -27,9 +27,14 @@
         </tr>
     </thead>
     <tbody>
-    <tr>
+        <tr>
+            <td align="center"> 5week </td>
+            <td align="center"><a href="5weeks/README.md">링크</a></td>
+            <td align="center"> CT </td>
+        </tr>
+        <tr>
             <td align="center"> 4week </td>
-            <td align="center"><a href="4week/README.md">링크</a></td>
+            <td align="center"><a href="4weeks/README.md">링크</a></td>
             <td align="center"> CT </td>
         </tr>
         <tr>
