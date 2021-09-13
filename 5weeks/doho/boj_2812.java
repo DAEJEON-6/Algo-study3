@@ -1,11 +1,7 @@
 package boj;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.util.Arrays;
-import java.util.LinkedList;
-import java.util.StringTokenizer;
+import java.io.*;
+import java.util.*;
 
 public class boj_2812 {
     public static void main(String[] args) throws IOException {
@@ -13,25 +9,21 @@ public class boj_2812 {
         StringTokenizer st = new StringTokenizer(br.readLine()," ");
         int N = Integer.parseInt(st.nextToken());
         int K = Integer.parseInt(st.nextToken());
+        int SIZE = N-K;
 
-        int[] numbers = Arrays.stream(br.readLine().split("")).mapToInt(Integer::parseInt).toArray();
+        char[] numbers = br.readLine().toCharArray();
 
-        LinkedList<Integer> stack = new LinkedList<>();
-        for(int i=numbers.length-1 ; i >= 0; i--) {
-            if(stack.size() < (N-K)) {
-                stack.addFirst(numbers[i]);
-                continue;
+        LinkedList<Character> stack = new LinkedList<>();
+        for(int i=0 ; i < numbers.length ; i++) {
+            while(K>0 &&!stack.isEmpty() && stack.getLast() < numbers[i]) {
+                stack.pollLast();
+                K--;
             }
-
-            if(stack.get(0) <= numbers[i]) {
-                if(stack.get(0) < numbers[i] && (i+1 + stack.size()) >= (N-K))
-                    stack.pollFirst();
-                stack.addFirst(numbers[i]);
-            }
+            stack.add(numbers[i]);
         }
 
         StringBuilder sb = new StringBuilder();
-        for (int i = 0; i < N-K; i++) {
+        for (int i = 0; i < SIZE; i++) {
             sb.append(stack.get(i));
         }
 
