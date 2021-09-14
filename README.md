@@ -28,28 +28,33 @@
     </thead>
     <tbody>
         <tr>
+            <td align="center"> 6week </td>
+            <td align="center"><a href="6weeks">링크</a></td>
+            <td align="center"> CT </td>
+        </tr>
+        <tr>
             <td align="center"> 5week </td>
-            <td align="center"><a href="5weeks/README.md">링크</a></td>
+            <td align="center"><a href="5weeks">링크</a></td>
             <td align="center"> CT </td>
         </tr>
         <tr>
             <td align="center"> 4week </td>
-            <td align="center"><a href="4weeks/README.md">링크</a></td>
+            <td align="center"><a href="4weeks">링크</a></td>
             <td align="center"> CT </td>
         </tr>
         <tr>
             <td align="center"> 3week </td>
-            <td align="center"><a href="3weeks/README.md">링크</a></td>
+            <td align="center"><a href="3weeks">링크</a></td>
             <td align="center"> IM </td>
         </tr>
         <tr>
             <td align="center"> 2week </td>
-            <td align="center"><a href="2weeks/README.md">링크</a></td>
+            <td align="center"><a href="2weeks">링크</a></td>
             <td align="center"> IM </td>
         </tr>
         <tr>
             <td align="center"> 1week </td>
-            <td align="center"><a href="1weeks/README.md">링크</a></td>
+            <td align="center"><a href="1weeks">링크</a></td>
             <td align="center"> IM </td>
         </tr>
     </tbody>
