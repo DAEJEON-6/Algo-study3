@@ -48,7 +48,7 @@
             <td align="center"><a href="https://www.acmicpc.net/problem/17070">Link</a></td>
             <td align="center"><a href=""> </a></td>
             <td align="center"><a href=""> </a></td>
-            <td align="center"><a href=""> </a></td>a></td>
+            <td align="center"><a href=""> </a></td>
             <td align="center"><a href=""> </a></td>
         </tr>
         <tr>
