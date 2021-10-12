@@ -8,6 +8,12 @@ import java.util.Queue;
 import java.util.Stack;
 import java.util.StringTokenizer;
 
+/**
+ * [백준] 연구소 3
+ *  출처 : https://www.acmicpc.net/problem/17142
+ *  풀이 기법 : 구현
+ */
+
 public class Main{
 	static int M,N;
 	static int[][] map;
