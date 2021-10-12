@@ -5,6 +5,12 @@ import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.util.Stack;
 
+/**
+ * [백준] 문자열 폭발
+ *  출처 : https://www.acmicpc.net/problem/9935
+ *  풀이 기법 : stack을 이용했습니다.
+ */
+
 public class Main{
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
