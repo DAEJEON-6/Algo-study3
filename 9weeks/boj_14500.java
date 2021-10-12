@@ -3,6 +3,12 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
+/**
+ * [백준] 테트로미노
+ *  출처 : https://www.acmicpc.net/problem/14500
+ *  풀이 기법 : 구현
+ */
+
 public class Main {
 
 	static int[][] O = { { 0, 0 }, { 0, 1 }, { 1, 0 }, { 1, 1 } };
