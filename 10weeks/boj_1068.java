@@ -13,7 +13,6 @@ import java.util.StringTokenizer;
 DFS로 child가 없는 노드를 찾아주었습니다.
 
 */
-
 public class Main {
 	//child를 저장할 객체
 	public static class Node{
