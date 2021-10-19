@@ -9,7 +9,6 @@ import java.util.StringTokenizer;
 주의할점 : 자기 자신으로 가는 것도 가능하다.
 */
 
-
 public class Main {
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
