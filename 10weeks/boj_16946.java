@@ -10,7 +10,6 @@ import java.util.StringTokenizer;
 벽 부순 개수 별로 방문 배열을 따로 생성해주었습니다. 
 - 사용 알고리즘 : DFS, DP(?)
 */
-
 public class Main{
 	static int[][] map,map2;
 	static int N,M,number;
