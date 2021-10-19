@@ -5,7 +5,6 @@ import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.util.StringTokenizer;
 
-
 /*
 백준 16946 벽 부수고 이동하기 4 입니다 .
 벽 부순 개수 별로 방문 배열을 따로 생성해주었습니다. 
@@ -93,7 +92,6 @@ public class Main{
         	}
         	sb.append("\n");
         }
-        
         bw.write(sb.toString());
         bw.flush();
         bw.close();
